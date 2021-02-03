@@ -1294,7 +1294,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
       <dependency>
         <groupId>org.apache.ant</groupId>
         <artifactId>ant</artifactId>
-        <version>1.8.1</version>
+        <version>1.10.9</version>
       </dependency>
       <dependency>
         <groupId>com.google.re2j</groupId>
