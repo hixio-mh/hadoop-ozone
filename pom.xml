@@ -1595,7 +1595,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
       <dependency>
         <groupId>org.xerial</groupId>
         <artifactId>sqlite-jdbc</artifactId>
-        <version>3.25.2</version>
+        <version>3.36.0.3</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
